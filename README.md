@@ -1,8 +1,8 @@
 # FileDesk
 
-여러 폴더를 나란히 열고 파일을 정리할 수 있는 데스크톱 파일 매니저입니다.
+여러 폴더를 나란히 열고 파일을 정리할 수 있는 macOS 파일 매니저입니다.
 
-**[설치 파일 다운로드](https://github.com/igomumugo/filedesk-downloads/releases/latest)** · **[Mac 설명서](https://igomumugo.github.io/guide.html)** · **[Windows 설명서](https://igomumugo.github.io/windows.html)** · **[앱 홈페이지](https://igomumugo.github.io/)** · **[개인정보처리방침](https://igomumugo.github.io/privacy.html)**
+**[설치 파일 다운로드](https://github.com/igomumugo/filedesk-downloads/releases/latest)** · **[사용 설명서](https://igomumugo.github.io/guide.html)** · **[앱 홈페이지](https://igomumugo.github.io/)** · **[개인정보처리방침](https://igomumugo.github.io/privacy.html)**
 
 이 저장소는 FileDesk 설치 파일과 사용 안내를 공개하는 배포 전용 저장소입니다. 프로그램 소스와 개발 커밋 기록은 포함하지 않습니다. GitHub가 자동으로 표시하는 `Source code (zip/tar.gz)`는 이 저장소의 안내 파일이며, 앱 설치 파일이 아닙니다.
 
@@ -19,17 +19,16 @@
 - **Dropbox**: 서버 연결의 Dropbox 버튼 또는 클라우드 계정 추가에서 브라우저로 로그인합니다.
 - **편리한 탐색**: 클릭 가능한 경로, 주소 직접 입력, 경로 복사, 현재 폴더에서 터미널 열기를 지원합니다.
 
-위 기능 설명은 macOS 버전을 기준으로 합니다. 서비스별 로그인·권한·네트워크 연결이 필요한 기능이 있으며, Windows는 탐색기 스타일을 기본으로 하며 Windows 및 FileDesk 스타일을 제공합니다. AirDrop·Finder 태그 연동은 포함하지 않습니다. [Windows 설명서](https://igomumugo.github.io/windows.html)에서 지원 범위를 확인하세요.
+서비스별 로그인·권한·네트워크 연결이 필요한 기능이 있습니다. 자세한 사용 방법은 [사용 설명서](https://igomumugo.github.io/guide.html)를 확인하세요.
 
 ## 다운로드 선택
 
-현재 앱 버전은 **1.01 (빌드 16)**입니다. Mac은 macOS 14 이상, Windows는 Windows 10·11 x64용입니다.
+현재 앱 버전은 **1.01 (빌드 16)**입니다. macOS 14 이상이 필요합니다.
 
 | 사용 환경 | 설치 파일 | 상태 |
 | --- | --- | --- |
 | Apple Silicon Mac (M1·M2·M3·M4 등) | `FileDesk-macOS-AppleSilicon.dmg` | 다운로드 제공 |
 | Intel Mac | `FileDesk-macOS-Intel.dmg` | 다운로드 제공 · Intel 하드웨어 실행 검증은 별도 필요 |
-| Windows x64 | `FileDesk-1.01-Windows-x64-Setup.exe` 및 ZIP | 다운로드 제공 |
 
 Mac의 ** → 이 Mac에 관하여**에서 칩 또는 프로세서를 확인할 수 있습니다. 버전별 설치 파일과 SHA-256 체크섬은 [Releases](https://github.com/igomumugo/filedesk-downloads/releases)에 있습니다.
 
@@ -41,16 +40,6 @@ Mac의 ** → 이 Mac에 관하여**에서 칩 또는 프로세서를 확인�
 4. 응용 프로그램 폴더에서 FileDesk를 실행합니다.
 
 이 배포본은 Apple 공증이 완료된 배포본이 아닙니다. macOS가 실행을 차단하면 다운로드 출처와 체크섬을 확인하고 Apple의 시스템 설정에서 제공하는 허용 절차를 사용하세요. 시스템 전체의 보안 기능을 끌 필요는 없습니다.
-
-## Windows 설치
-
-1. EXE를 실행합니다. ZIP을 받았다면 먼저 압축을 풀어 주세요.
-2. 설치 위치를 선택하고 설치를 마칩니다.
-3. 바탕 화면 또는 시작 메뉴의 **FileDesk 바로가기**로 실행합니다.
-
-Windows 기본 최소화·최대화·닫기 버튼을 사용하며, 왼쪽에는 홈·빠른 액세스·내 PC 구조를 제공합니다. 바탕 화면·문서·다운로드는 Windows의 실제 폴더 위치를 열고, 내장·외장 HDD·SSD는 볼륨 이름과 C:·D: 등의 문자, 전체·남은 용량으로 표시합니다.
-
-현재 EXE는 Authenticode 서명이 없어 Windows 보안 안내가 표시될 수 있습니다. 공식 출처와 SHA-256을 확인하세요. 서버·클라우드의 실제 계정 인증과 미디어 코덱은 사용 환경에 따라 달라집니다.
 
 ## 클라우드 연결 안내
 
