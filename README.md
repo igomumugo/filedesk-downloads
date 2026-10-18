@@ -23,7 +23,7 @@
 
 ## 다운로드 선택
 
-현재 앱 버전은 **1.02 (빌드 18)**입니다. macOS 14 이상이 필요합니다. [1.02 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.02)을 확인하세요.
+현재 앱 버전은 **1.02 (빌드 19)**입니다. macOS 14 이상이 필요합니다. [1.02 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.02)을 확인하세요.
 
 | 사용 환경 | 설치 파일 | 상태 |
 | --- | --- | --- |
