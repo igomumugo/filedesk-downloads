@@ -21,9 +21,13 @@
 
 서비스별 로그인·권한·네트워크 연결이 필요한 기능이 있습니다. 자세한 사용 방법은 [사용 설명서](https://igomumugo.github.io/guide.html)를 확인하세요.
 
+## 이번 업데이트
+
+상단 도구 막대와 임시 보관함 버튼의 여백·높이·아이콘 간격을 통일했습니다. 설정 화면의 버튼과 체크 항목도 읽고 누르기 편하게 다듬었습니다.
+
 ## 다운로드 선택
 
-현재 앱 버전은 **1.02 (빌드 21)**입니다. macOS 14 이상이 필요합니다. [1.02 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.02)을 확인하세요.
+현재 앱 버전은 **1.02 (빌드 22)**입니다. macOS 14 이상이 필요합니다. [1.02 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.02)을 확인하세요.
 
 | 사용 환경 | 설치 파일 | 상태 |
 | --- | --- | --- |
