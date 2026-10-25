@@ -1,5 +1,7 @@
 # FileDesk
 
+🌐 [한국어](https://igomumugo.github.io/?lang=ko#download) · [English](https://igomumugo.github.io/?lang=en#download) · [日本語](https://igomumugo.github.io/?lang=ja#download) · [Deutsch](https://igomumugo.github.io/?lang=de#download) · [Français](https://igomumugo.github.io/?lang=fr#download) · [简体中文](https://igomumugo.github.io/?lang=zh-Hans#download) · [繁體中文](https://igomumugo.github.io/?lang=zh-Hant#download)
+
 여러 폴더를 나란히 열고 파일을 정리할 수 있는 macOS 파일 매니저입니다.
 
 **[설치 파일 다운로드](https://github.com/igomumugo/filedesk-downloads/releases/latest)** · **[사용 설명서](https://igomumugo.github.io/guide.html)** · **[앱 홈페이지](https://igomumugo.github.io/)** · **[개인정보처리방침](https://igomumugo.github.io/privacy.html)**
