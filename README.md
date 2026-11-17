@@ -25,11 +25,11 @@
 
 ## 이번 업데이트
 
-Outlook 등에서 첨부 파일을 분할 창이나 임시보관함에 끌어 놓으면 실제 파일로 저장됩니다. SRT 자막은 스페이스바로 열어 타임코드와 본문을 확인할 수 있습니다.
+Chrome의 Gmail과 Outlook에서 ZIP·PDF 등 첨부 파일을 분할 창과 임시보관함으로 끌거나 ⌘C·⌘V로 복사할 수 있습니다. 단축키를 처음 쓸 때 **FileDesk → Chrome 웹메일 연결…**에서 안내하는 확장을 로드하고 웹메일 탭을 새로고침하세요.
 
 ## 다운로드 선택
 
-현재 앱 버전은 **1.07 (빌드 27)**입니다. macOS 14 이상이 필요합니다. [1.07 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.07)을 확인하세요.
+현재 앱 버전은 **1.08 (빌드 28)**입니다. macOS 14 이상이 필요합니다. [1.08 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.08)을 확인하세요.
 
 | 사용 환경 | 설치 파일 | 상태 |
 | --- | --- | --- |
