@@ -29,7 +29,7 @@
 
 ## 다운로드 선택
 
-현재 앱 버전은 **1.06 (빌드 26)**입니다. macOS 14 이상이 필요합니다. [1.06 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.06)을 확인하세요.
+현재 앱 버전은 **1.07 (빌드 27)**입니다. macOS 14 이상이 필요합니다. [1.07 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.07)을 확인하세요.
 
 | 사용 환경 | 설치 파일 | 상태 |
 | --- | --- | --- |
