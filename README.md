@@ -1,10 +1,10 @@
 # FileDesk
 
-🌐 [한국어](https://igomumugo.github.io/?lang=ko#download) · [English](https://igomumugo.github.io/?lang=en#download) · [日本語](https://igomumugo.github.io/?lang=ja#download) · [Deutsch](https://igomumugo.github.io/?lang=de#download) · [Français](https://igomumugo.github.io/?lang=fr#download) · [简体中文](https://igomumugo.github.io/?lang=zh-Hans#download) · [繁體中文](https://igomumugo.github.io/?lang=zh-Hant#download)
+🌐 [한국어](https://filedesk.win/?lang=ko#download) · [English](https://filedesk.win/?lang=en#download) · [日本語](https://filedesk.win/?lang=ja#download) · [Deutsch](https://filedesk.win/?lang=de#download) · [Français](https://filedesk.win/?lang=fr#download) · [简体中文](https://filedesk.win/?lang=zh-Hans#download) · [繁體中文](https://filedesk.win/?lang=zh-Hant#download)
 
 여러 폴더를 나란히 열고 파일을 정리할 수 있는 macOS 파일 매니저입니다.
 
-**[설치 파일 다운로드](https://github.com/igomumugo/filedesk-downloads/releases/latest)** · **[사용 설명서](https://igomumugo.github.io/guide.html)** · **[앱 홈페이지](https://igomumugo.github.io/)** · **[개인정보처리방침](https://igomumugo.github.io/privacy.html)**
+**[설치 파일 다운로드](https://github.com/igomumugo/filedesk-downloads/releases/latest)** · **[사용 설명서](https://filedesk.win/guide.html)** · **[앱 홈페이지](https://filedesk.win/)** · **[개인정보처리방침](https://filedesk.win/privacy.html)**
 
 이 저장소는 FileDesk 설치 파일과 사용 안내를 공개하는 배포 전용 저장소입니다. 프로그램 소스와 개발 커밋 기록은 포함하지 않습니다. GitHub가 자동으로 표시하는 `Source code (zip/tar.gz)`는 이 저장소의 안내 파일이며, 앱 설치 파일이 아닙니다.
 
@@ -15,23 +15,25 @@
 - **파일 미리보기**: 썸네일, 미리보기, 지원되는 동영상·음악의 패널 내 재생으로 파일 내용을 확인합니다.
 - **파일 정리**: 복사·붙여넣기·이동, 일괄 이름 변경, 정렬·그룹, 중복 파일 찾기와 텍스트 문서 비교를 제공합니다.
 - **즐겨찾기와 태그**: 자주 사용하는 폴더를 등록하고, macOS에서는 Finder 태그와 연동합니다.
-- **임시보관함**: 여러 폴더의 파일을 잠시 모아 두고 현재 폴더로 복사합니다. 폴더는 제외하며 목록은 재실행 후에도 유지됩니다. 보관 목록 지우기는 원본 파일을 삭제하지 않습니다.
+- **임시보관함**: 여러 위치의 파일과 폴더를 잠시 모아 두고 현재 폴더로 복사합니다. 목록은 재실행 후에도 유지됩니다. 보관 목록 지우기는 원본 파일을 삭제하지 않습니다.
 - **연결과 전송**: FTP·SFTP 연결, 폴더 공유 서버, 클라우드 전송, AirDrop·Taildrop 등 사용 환경에 맞는 전송 기능을 제공합니다.
 - **폴더 꾸미기**: 색상표에서 폴더·테마 색상을 고르고, 폴더 중앙에 ICNS·ICO·이미지를 넣습니다.
 - **Dropbox**: 서버 연결의 Dropbox 버튼 또는 클라우드 계정 추가에서 브라우저로 로그인합니다.
 - **편리한 탐색**: 클릭 가능한 경로, 주소 직접 입력, 경로 복사, 현재 폴더에서 터미널 열기를 지원합니다.
 
-서비스별 로그인·권한·네트워크 연결이 필요한 기능이 있습니다. 자세한 사용 방법은 [사용 설명서](https://igomumugo.github.io/guide.html)를 확인하세요.
+서비스별 로그인·권한·네트워크 연결이 필요한 기능이 있습니다. 자세한 사용 방법은 [사용 설명서](https://filedesk.win/guide.html)를 확인하세요.
 
-## 이번 업데이트
+## 이번 업데이트 · 1.19
 
-Chrome의 Gmail과 Outlook에서 ZIP·PDF 등 첨부 파일을 끌거나 ⌘C·⌘V로 복사하면 별도의 저장 창 없이 분할 창과 임시보관함에 추가됩니다. 다운로드 진행 막대와 받은 용량을 표시하고, 전체 크기를 알 수 있으면 %도 표시합니다. **FileDesk → Chrome 웹메일 연결…**에서 안내하는 확장을 로드하거나 새로고침한 뒤 웹메일 탭도 새로고침하세요.
+도구막대 버튼을 드래그해 순서를 바꾸고 파일·폴더·앱을 드롭해 바로가기로 등록합니다. 우클릭으로 표시 이름을 바꾸거나 제거할 수 있으며 원본은 변경하지 않습니다.
 
-복사한 텍스트를 붙여넣으면 앞 6글자를 이름으로 하는 새 텍스트 파일이 생성됩니다. 창 제어 버튼과 왼쪽 메뉴 상자의 정렬도 개선했습니다.
+임시 보관함은 폴더도 보관하고 복사합니다. 아이콘을 표시 크기로 보관하고 썸네일 캐시 한도를 96MiB에서 48MiB로 줄였으며 메모리 부족 시 해제합니다. 전체 메모리 점유율은 작업에 따라 달라집니다.
+
+[각 언어별 변경 내역과 설명서](https://filedesk.win/#download)를 확인하세요. 이미지·PDF·오디오 편집과 콜라주는 Pro 출시 예정 기능이며 일반판 설치 파일에 포함되지 않습니다.
 
 ## 다운로드 선택
 
-현재 앱 버전은 **1.09 (빌드 29)**입니다. macOS 14 이상이 필요합니다. [1.09 업데이트 내용](https://github.com/igomumugo/filedesk-downloads/releases/tag/v1.09)을 확인하세요.
+현재 앱 버전은 **1.19 (빌드 40)**입니다. macOS 14 이상이 필요합니다.
 
 | 사용 환경 | 설치 파일 | 상태 |
 | --- | --- | --- |
@@ -59,7 +61,9 @@ Google Drive는 **공식 Google Drive for desktop 앱에 로그인한 뒤 FileDe
 
 ## 사용권
 
-개인은 **비상업적 개인 용도로 제공된 원본 그대로 무료 사용**할 수 있습니다. 기관·회사·학교·단체 및 상업적 목적의 사용에는 별도의 유료 이용 허락이 필요합니다. 프로그램·소스·문서·디자인의 수정·복제·재배포는 사용권에서 허용한 경우를 제외하고 금지됩니다.
+일반판은 **개인의 비상업적 용도로 제공된 원본 그대로 무료 사용**할 수 있습니다. 기관·회사·학교·단체 및 상업적 목적의 사용에는 별도의 유료 이용 허락이 필요합니다. 프로그램·소스·문서·디자인의 수정·복제·재배포는 사용권에서 허용한 경우를 제외하고 금지됩니다.
+
+Pro는 별도 구매가 필요하며 **1기기 1라이선스** 원칙을 따릅니다. 현재 Pro는 출시 예정이며 공개 설치 파일을 제공하지 않습니다.
 
 공개 다운로드는 오픈소스 라이선스 제공을 뜻하지 않습니다. 함께 포함된 외부 구성요소에는 각 구성요소의 라이선스가 적용됩니다. 자세한 내용은 [LICENSE](LICENSE)를 확인하세요.
 
