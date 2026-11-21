@@ -38,7 +38,7 @@
 | Apple Silicon Mac (M1·M2·M3·M4 등) | `FileDesk-macOS-AppleSilicon.dmg` | 다운로드 제공 |
 | Intel Mac | `FileDesk-macOS-Intel.dmg` | 다운로드 제공 · Intel 하드웨어 실행 검증은 별도 필요 |
 
-Mac의 ** → 이 Mac에 관하여**에서 칩 또는 프로세서를 확인할 수 있습니다. 최신 일반판 설치 파일과 SHA-256 체크섬은 [공식 릴리스](https://github.com/igomumugo/filedesk-downloads/releases/latest)에서 받을 수 있습니다.
+Mac의 ** → 이 Mac에 관하여**에서 칩 또는 프로세서를 확인할 수 있습니다. 최신 일반판 설치 파일과 SHA-256 체크섬은 [공식 릴리스](https://github.com/igomumugo/filedesk-downloads/releases/latest)에서 받을 수 있습니다. 이전 버전의 변경 내역은 [버전별 업데이트 기록](https://github.com/igomumugo/filedesk-downloads/releases)에서 확인할 수 있습니다.
 
 ## macOS 설치
 
